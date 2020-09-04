@@ -19,6 +19,6 @@ NACE linked data can be found in the following repository: [nace-linked-data](ht
 To include the NACE nomenclature we have used the `schema:nace` property that has been defined in the [`mfg.schema.org` extension](http://mfg.sdo-mfg.appspot.com/nace).
 
 
-## desclaimer
+## disclaimer
 
-Data is used under the following [desclaimer](https://www.cbs.nl/-/media/statline/documenten/disclaimer-open-data-v-2.pdf)
+Data is used under the following [disclaimer](https://www.cbs.nl/-/media/statline/documenten/disclaimer-open-data-v-2.pdf)

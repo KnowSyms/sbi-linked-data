@@ -6,8 +6,6 @@ The sources [CSV data](https://www.cbs.nl/nl-nl/onze-diensten/methoden/classific
 
 The Dutch Standaard Bedrijfsindeling (SBI 2008) is based on the activity classification of the European Union (Nomenclature statistique des activités économiques dans la Communauté Européenne, NACE) and on the classification of the United Nations (International Standard Industrial Classification of All Economic Activities, ISIC). For convenience we also include the NACE momenclature code in the SBI data.
 
-NACE linked data can be found in the following repository: [nace-linked-data](https://github.com/KnowSyms/nace-linked-data)
-
 
 ## files
 * [SBI_2008_upd.2019.ttl](https://github.com/KnowSyms/sbi-linked-data/blob/master/SBI_2008_upd.2019.ttl) - Turle format SBI codes
